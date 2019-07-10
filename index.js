@@ -27,11 +27,11 @@ function dec(a) {
 
 
 function makeInt(b) {
-  parseInt('b', 10);
+  return parseInt('b', 10);
 }
 
 function preserveDecimal(a) {
-  parseFloat('a');
+ return parseFloat('a');
 }
 
 
